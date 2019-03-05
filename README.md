@@ -1,21 +1,22 @@
 # Word-Guess-Game
 
-**What the project does**
+**What the project does**  
 This project recreates the hangman game with an animal theme.
 
-**Why the project is useful**
+**Why the project is useful**  
 This game can be enjoyed by people of all ages.
 
-**How users can get started with the project**
+**How users can get started with the project**  
 To start the game, read the instructions in the top right corner and start inputting letters to guess the word.
 
-**Where users can get help with your project**
+**Where users can get help with your project**  
 If you need assistance, please reach out to this email with your questions and concerns: <dangmaryk@gmail.com>.
 
-**Who maintains and contributes to the project**
-Mary Dang
-Github Repository link: <https://github.com/mkd454/Word-Guess-Game>
-Github page link: <https://mkd454.github.io/Word-Guess-Game/>
+**Who maintains and contributes to the project**  
+Mary Dang  
+Github Repository link: <https://github.com/mkd454/Word-Guess-Game>  
+Github page link: <https://mkd454.github.io/Word-Guess-Game/>  
+Bootstrap Portfolio link: <https://mkd454.github.io/Bootstrap-Portfolio/>
 
 ### Task List
 
@@ -45,13 +46,13 @@ Github page link: <https://mkd454.github.io/Word-Guess-Game/>
 
 ##### Word Guess Game Bonuses
 
-1. Play a sound or song when the user guesses their word correctly, like in our demo.
-2. Write some stylish CSS rules to make a design that fits your game's theme.
-3. **HARD MODE:** Organize your game code as an object, except for the key events to get the letter guessed. This will be a challenge if you haven't coded with JavaScript before, but we encourage anyone already familiar with the language to try this out.
-4. Save your whole game and its properties in an object.
-5. Save any of your game's functions as methods, and call them underneath your object declaration using event listeners.
-6. Don't forget to place your global variables and functions above your object.
+- [ ] Play a sound or song when the user guesses their word correctly, like in our demo.
+- [ ] Write some stylish CSS rules to make a design that fits your game's theme.
+- [ ] **HARD MODE:** Organize your game code as an object, except for the key events to get the letter guessed. This will be a challenge if you haven't coded with JavaScript before, but we encourage anyone already familiar with the language to try this out.
+- [ ] Save your whole game and its properties in an object.
+- [ ] Save any of your game's functions as methods, and call them underneath your object declaration using event listeners.
+- [ ] Don't forget to place your global variables and functions above your object.
    * Remember: global variables, then objects, then calls.
-7. Definitely talk with a TA or your instructor if you get tripped up during this challenge.
+- [ ] Definitely talk with a TA or your instructor if you get tripped up during this challenge.
 
 - - -
